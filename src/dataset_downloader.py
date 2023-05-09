@@ -37,7 +37,7 @@ mushroom_list = ['Morchella','Gyromitra esculenta','Cantharellus','Amanita musca
                  'Coprinus comatus', 'Coprinopsis atramentaria', 'Agaricus campestris', 'Agaricus xanthodermus']  # Add your list of mushrooms here
 
 
-N = 3
+N = 200
 for mushroom in tqdm.tqdm(mushroom_list, desc='Downloading images'):
     df_res = df_filtered[df_filtered['name'].str.contains(mushroom)]
 
