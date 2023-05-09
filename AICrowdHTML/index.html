@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Bootstrap Page</title>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href=
+"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+</head>
+<style>
+    .justify-content-start {
+        justify-content: flex-start !important;
+      }
+</style>
+<body>
+
+        <!--Header-->
+	<header class="navbar navbar-expand-md navbar-white bg-white">
+		<div class="container">
+			<a class="navbar-brand" href="#">
+                <img src="./AI.png" class="img-fluid" style="height:90px" alt="Responsive image">
+            </a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+
+			</div>
+		</div>
+	</header>
+
+    <!--Banner-->
+    <div
+    class="bg-image p-5 text-center shadow-1-strong rounded mb-5 text-white"
+    style="background-image: url('./img.jpg'); background-repeat: no-repeat; height: 400px;"
+  >
+  <div style="height:50px"></div>
+  <div class="d-flex align-items-center bg-orange rounded p-3">
+    <div  style="align-items:center;background:#e84a35;width:170px;height:25px;border-radius:15px;">
+        <div style="width:10px"></div>
+        <i class="bi bi-clock"></i>
+        <span style="font-size:13px;color:white">Phase 1: 30 days left</span>
+        <div style="width:20px"></div>
+    </div>
+  </div>
+  <div style="height:50px"></div>
+  <div style="height:140px"></div>
+
+  <div class="d-flex align-items-center bg-orange rounded p-3">
+
+    <div  style="align-items:center;background:white;width:170px;height:25px;border-radius:15px;">
+        <div style="width:10px"></div>
+      
+        <span style="font-size:13px;color:grey">By Mushroom World</span>
+        <div style="width:20px"></div>
+    </div>
+    
+    <div style="width:20px"></div>
+
+    <div  style="align-items:center;background:white;width:170px;height:25px;border-radius:15px;">
+        <div style="width:10px"></div>
+        <i class="bi bi-eye" style="color:red"></i>
+        <span style="font-size:13px;color:grey">12 mio participants</span>
+        <div style="width:20px"></div>
+    </div>
+
+    <div style="width:20px"></div>
+
+    <div  style="align-items:center;background:white;width:100px;height:25px;border-radius:15px;">
+        <div style="width:10px"></div>
+        <span style="font-size:13px;color:grey">Share</span>
+        <div style="width:20px"></div>
+    </div>
+  </div>
+  </div>
+
+
+    <!--Navigation buttons-->
+ 
+    <div class="container-fluid" >
+       <ul class="nav nav-tabs" style="justify-content:last baseline;">
+          <li style="width:150px;height:50px;text-align:center;align-items:center">
+             <a href="#tab1" data-toggle="tab">
+             <span style="font-size: large;color:black;">Overview</span>
+             </a>
+          </li>
+          <li style="width:150px;height:50px;text-align:center;align-items:center"
+          ><a href="#tab2" data-toggle="tab">
+                <span style="font-size: large;color:black;">Data Collection</span>
+               
+          </a>
+        </li>
+       </ul>
+    </div>
+
+
+    <div style="height:30px"></div>
+
+
+    <div class="tab-content" id="tabs">
+    
+    <!--TAB 1: OVERVIEW-->
+    <div class="tab-pane" id="tab1">
+    
+    <div style="width:100%;background:white;text-align:center;align-items:center;justify-content:center;">
+    <div style="width:1200px;margin: auto;" >
+       <div style="background:white;text-align:justify;">
+          <!--INTRODUCTION-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+             <i class="bi bi-star" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Introduction:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+             Modelling customer shopping intentions is crucial for e-commerce stores, as it directly impacts user experience and engagement. Accurately understanding what a customer is searching for, such as whether they are looking for electronics or groceries with the search query “apple”, is essential for providing personalized recommendations. Session-based recommendation, which utilizes customer session data to predict their next purchase, has become increasingly popular with the development of data mining and machine learning techniques. However, few studies have explored session-based recommendation under real-world multilingual and imbalanced scenarios.
+             </span>
+             <div style="height:10px"></div>
+             <span style="font-size:17px;text-align: justify;">
+                To address this gap, we present the "Multilingual Shopping Session Dataset," a dataset consisting of millions of user sessions from six different locales, where the major languages of products are English, German, Japanese, French, Italian, and Spanish. The dataset is imbalanced, with fewer French, Italian, and Spanish products than English, German, and Japanese. With this data, we introduce three different tasks:
+                <ul>
+                   <li>1. predicting the next engaged product for sessions from English, German, and Japanese
+                   </li>
+                   <li>2. predicting the next engaged product for sessions from French, Italian, and Spanish, where transfer learning techniques are encouraged
+                   </li>
+                   <li>3. predicting the title for the next engaged product
+                   </li>
+                </ul>
+             </span>
+             <div style="height:10px"></div>
+             <span style="font-size:17px;text-align: justify;">
+             We hope this dataset and competition will encourage the development of multilingual recommendation systems, which can enhance personalization and understanding of global trends and preferences. This competition aims to provide practical solutions that benefit customers worldwide by promoting diversity and innovation in data science. The dataset will be publicly available to the research community, and standard evaluation metrics will be used to assess model performance.
+             </span>
+          </div>
+          <!--SEPARATION-->
+          <div style="height:30px"></div>
+          <!--DATASET-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+             <i class="fa fa-database"></i>
+             <i class="bi bi-0-circle-fill"></i>
+             <i class="bi bi-clipboard-data" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Dataset:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+             The Multilingual Shopping Session Dataset is a collection of anonymized customer sessions containing products from six different locales: English, German, Japanese, French, Italian, and Spanish. It consists of two main components: user sessions and product attributes. User sessions are a list of products that a user has engaged with in chronological order, while product attributes include various details like product title, price in local currency, brand, colour, and description.
+             </span>
+             <div style="height:10px"></div>
+             <span style="font-size:17px;text-align: justify;">
+             The dataset has been divided into three splits: train, phase-1 test, and phase-2 test. For Task 1 and Task 2, the proportions for each language are roughly 10:1:1. For Task 3, the number of samples in the phase-1 test and phase-2 test is fixed at 10,000. All three tasks share the same train set, while their test sets have been constructed according to their specific objectives. Task 1 uses English, German, and Japanese data, while Task 2 uses French, Italian, and Spanish data. Participants in Task 2 are encouraged to use transfer learning to improve their system's performance on the test set. For Task 3, the test set includes products that do not appear in the training set, and participants are asked to generate the title of the next product based on the user session.
+             Description of the dataset:
+             </span>
+             <div style="height:10px">
+             </div>
+             <ul>
+                <li>locale: the locale code of the product (e.g., DE)
+                </li>
+                id: a unique for the product. Also known as Amazon Standard Item Number (ASIN) (e.g., B07WSY3MG8)    
+                </li>
+                <li>brand: item brand name (e.g., “Japanese Aesthetic Flowers & Vaporwave Clothing”)
+                </li>
+             </ul>
+             <div style="height:10px"></div>
+             <span style="font-size:17px;text-align: justify;">
+             We hope this dataset and competition will encourage the development of multilingual recommendation systems, which can enhance personalization and understanding of global trends and preferences. This competition aims to provide practical solutions that benefit customers worldwide by promoting diversity and innovation in data science. The dataset will be publicly available to the research community, and standard evaluation metrics will be used to assess model performance.
+             </span>
+          </div>
+          <!--SEPARATION-->
+          <div style="height:30px"></div>
+          <!--TASKS-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+             <i class="bi bi-list-task" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Tasks:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+             The main objective of this competition is to build advanced session-based algorithms/models that directly predicts the next engaged product or generates its title text. The three tasks we proposed are:
+             </span>
+             <div style="height:10px"></div>
+             <div style="height:10px"></div>
+          </div>
+          <!--SEPARATION-->
+          <div style="height:30px"></div>
+          <span style="font-weight:bold;font-size:20px">Leaderboard and evaluation:</span>
+          <div style="height:30px"></div>
+
+          <!-- Timeline-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+
+             <i class="bi bi-calendar-date" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Timeline:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+            Start date...
+             </span>
+             <div style="height:10px"></div>
+             <div style="height:10px"></div>
+          </div>
+          <!--SEPARATION-->
+          <div style="height:30px"></div>
+          <!--Prizes-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+             <i class="bi bi-emoji-wink-fill" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Prizes:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+                First place,second place, third place...
+             </span>
+             <div style="height:10px"></div>
+             <div style="height:10px"></div>
+          </div>
+            <!--SEPARATION-->
+          <div style="height:30px"></div>
+          <!--Contact-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+
+             <i class="bi bi-phone" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Contact:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+                Have queries, or feedback or looking for teammates, drop a message on AIcrowd Community ForumAIcrowd Community Forum. Please use  for all communication to reach the Amazon KDD cup 2023 team.
+             </span>
+             <div style="height:10px"></div>
+             <div style="height:10px"></div>
+          </div>
+       </div>
+    </div>
+    </div>
+
+	</div>
+
+     <!--TAB 2: DATA COLLECTION-->
+    <div class="tab-pane" id="tab2">
+    
+        <div style="width:100%;background:white;text-align:center;align-items:center;justify-content:center;">
+            <div style="width:1200px;margin: auto;" >
+               <div style="background:white;text-align:justify;">
+                  <!--INTRODUCTION-->
+                  <div  style="align-items:center;width:500px;height:350px;border-radius:15px;">
+                    <div style="height:30px"></div>
+                     <i class="bi bi-star" style="color:orange"></i>
+                     <span style="font-weight:bold;font-size:20px">How we collected Data ? Data Collection Pipeline</span>
+                     <div style="height:30px"></div>
+                     <img src="./pipeline.png" class="img-fluid" style="height:200px" alt="Responsive image">
+                     <div style="width:20px"></div>
+                  </div>
+                  <div style="height:20px"></div>
+                  <div style="width:800px">
+            
+                     <span style="font-size:17px;text-align: justify;">
+                     Présentation des points principaux pour identifier les champignons non comestibles...
+                     </span>
+                  </div>
+                  <!--SEPARATION-->
+                  <div style="height:30px"></div>
+                  <!--DATASET-->
+         
+           
+               </div>
+            </div>
+            </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	
+	<script>
+		$(document).ready(function(){
+			activaTab('tab1');
+		});
+
+		function activaTab(tab){
+			$('.nav-tabs a[href="#' + tab + '"]').tab('show');
+		};
+	</script>
+</body>
+</html>
