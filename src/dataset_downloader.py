@@ -3,13 +3,13 @@ import requests
 import os
 import tqdm
 
-def download_image(url,filename):
+def download_image(url,filename,N):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
     }
     response = requests.get(url, headers=headers)
     # filename = os.path.basename(url) #takes the last part of the url
-    with open(f'./images/{filename}', 'wb') as f:
+    with open(f'./images-{N}/{filename}', 'wb') as f:
         f.write(response.content) 
         
 
@@ -37,14 +37,14 @@ mushroom_list = ['Morchella','Gyromitra esculenta','Cantharellus','Amanita musca
                  'Coprinus comatus', 'Coprinopsis atramentaria', 'Agaricus campestris', 'Agaricus xanthodermus']  # Add your list of mushrooms here
 
 
-N = 200
+N = 20
 for mushroom in tqdm.tqdm(mushroom_list, desc='Downloading images'):
     df_res = df_filtered[df_filtered['name'].str.contains(mushroom)]
 
     # create folder for each mushroom
-    if not os.path.exists(f'./images/{mushroom}'):
-        os.makedirs(f'./images/{mushroom}')
+    if not os.path.exists(f'./images-{N}/{mushroom}'):
+        os.makedirs(f'./images-{N}/{mushroom}')
 
     for i in tqdm.tqdm(range(min(N, len(df_res))), desc=f'{mushroom} images', leave=False):
-        download_image(df_res.iloc[i]['image'],f'{mushroom}/{mushroom}_{i}.jpg')
+        download_image(df_res.iloc[i]['image'],f'{mushroom}/{mushroom}_{i}.jpg',N)
 
