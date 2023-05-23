@@ -9,12 +9,12 @@
 
 # Table of Contents
 
-1. [Short summary](#short-summary)
-2. [Introduction](#introduction)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Summary and outlook](#summary-and-outlook)
-6. [Conclusion](#conclusion)
+[Short summary](#short-summary)
+[Introduction](#introduction)
+[Methodology](#methodology)
+[Results](#results)
+[Summary and outlook](#summary-and-outlook)
+[Conclusion](#conclusion)
 
 
 ## 1. Short summary
