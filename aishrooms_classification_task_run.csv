@@ -1,0 +1,290 @@
+id,created,project_id,task_id,user_id,user_ip,finish_time,info_0_value,info_0_question
+206099,2023-05-23T11:21:06.046482,728,266514,826.0,,2023-05-23T11:23:31.548362,Edible,Is this mushroom classified as edible or non-edible?
+206100,2023-05-23T11:23:19.553878,728,266341,834.0,,2023-05-23T11:23:32.661150,Edible,Is this mushroom classified as edible or non-edible?
+206101,2023-05-23T11:23:32.976553,728,266343,834.0,,2023-05-23T11:23:34.238987,Non-edible,Is this mushroom classified as edible or non-edible?
+206102,2023-05-23T11:23:31.730817,728,266516,826.0,,2023-05-23T11:23:34.301954,Non-edible,Is this mushroom classified as edible or non-edible?
+206103,2023-05-23T11:23:34.463811,728,266520,826.0,,2023-05-23T11:23:35.673766,Edible,Is this mushroom classified as edible or non-edible?
+206104,2023-05-23T11:23:34.610303,728,266506,834.0,,2023-05-23T11:23:37.038063,I don't know,Is this mushroom classified as edible or non-edible?
+206105,2023-05-23T11:23:35.837413,728,266522,826.0,,2023-05-23T11:23:37.882504,Non-edible,Is this mushroom classified as edible or non-edible?
+206106,2023-05-23T11:23:38.118305,728,266525,826.0,,2023-05-23T11:23:39.563319,Non-edible,Is this mushroom classified as edible or non-edible?
+206107,2023-05-23T11:23:37.328243,728,266508,834.0,,2023-05-23T11:23:39.846859,Edible,Is this mushroom classified as edible or non-edible?
+206108,2023-05-23T11:23:39.741478,728,266527,826.0,,2023-05-23T11:23:40.809393,Edible,Is this mushroom classified as edible or non-edible?
+206109,2023-05-23T11:23:40.063792,728,266510,834.0,,2023-05-23T11:23:41.716530,Non-edible,Is this mushroom classified as edible or non-edible?
+206110,2023-05-23T11:23:41.038443,728,266530,826.0,,2023-05-23T11:23:42.211165,Non-edible,Is this mushroom classified as edible or non-edible?
+206111,2023-05-23T11:23:42.407475,728,266533,826.0,,2023-05-23T11:23:43.628374,Edible,Is this mushroom classified as edible or non-edible?
+206112,2023-05-23T11:23:41.934408,728,266512,834.0,,2023-05-23T11:23:45.214046,I don't know,Is this mushroom classified as edible or non-edible?
+206113,2023-05-23T11:23:43.827111,728,266535,826.0,,2023-05-23T11:23:45.799280,Non-edible,Is this mushroom classified as edible or non-edible?
+206114,2023-05-23T11:23:45.426844,728,266515,834.0,,2023-05-23T11:23:47.190155,Non-edible,Is this mushroom classified as edible or non-edible?
+206115,2023-05-23T11:23:46.037000,728,266538,826.0,,2023-05-23T11:23:47.610678,Edible,Is this mushroom classified as edible or non-edible?
+206116,2023-05-23T11:23:47.479415,728,266518,834.0,,2023-05-23T11:23:48.521736,I don't know,Is this mushroom classified as edible or non-edible?
+206117,2023-05-23T11:23:47.806373,728,266541,826.0,,2023-05-23T11:23:49.482565,Non-edible,Is this mushroom classified as edible or non-edible?
+206118,2023-05-23T11:23:49.683494,728,266544,826.0,,2023-05-23T11:23:50.984731,Non-edible,Is this mushroom classified as edible or non-edible?
+206119,2023-05-23T11:23:51.196449,728,266546,826.0,,2023-05-23T11:23:52.816829,Non-edible,Is this mushroom classified as edible or non-edible?
+206120,2023-05-23T11:24:07.863854,728,266342,,141.187.246.201,2023-05-23T11:24:11.072002,Edible,Is this mushroom classified as edible or non-edible?
+206121,2023-05-23T11:24:11.559820,728,266507,,141.187.246.201,2023-05-23T11:24:12.678498,Edible,Is this mushroom classified as edible or non-edible?
+206122,2023-05-23T11:24:13.058261,728,266511,,141.187.246.201,2023-05-23T11:24:13.979062,Edible,Is this mushroom classified as edible or non-edible?
+206123,2023-05-23T11:24:08.608579,728,266342,,190.62.115.154,2023-05-23T11:24:14.975742,Edible,Is this mushroom classified as edible or non-edible?
+206124,2023-05-23T11:24:14.288388,728,266517,,141.187.246.201,2023-05-23T11:24:15.249444,Edible,Is this mushroom classified as edible or non-edible?
+206125,2023-05-23T11:24:15.267327,728,266509,,190.62.115.154,2023-05-23T11:24:16.421529,Edible,Is this mushroom classified as edible or non-edible?
+206126,2023-05-23T11:24:15.570310,728,266521,,141.187.246.201,2023-05-23T11:24:16.691968,Non-edible,Is this mushroom classified as edible or non-edible?
+206127,2023-05-23T11:24:16.676560,728,266519,,190.62.115.154,2023-05-23T11:24:17.422458,Edible,Is this mushroom classified as edible or non-edible?
+206128,2023-05-23T11:24:17.734221,728,266524,,190.62.115.154,2023-05-23T11:24:18.748739,Non-edible,Is this mushroom classified as edible or non-edible?
+206129,2023-05-23T11:24:17.054939,728,266526,,141.187.246.201,2023-05-23T11:24:19.471974,Edible,Is this mushroom classified as edible or non-edible?
+206130,2023-05-23T11:24:18.991911,728,266528,,190.62.115.154,2023-05-23T11:24:19.826896,I don't know,Is this mushroom classified as edible or non-edible?
+206131,2023-05-23T11:24:20.365184,728,266532,,190.62.115.154,2023-05-23T11:24:20.873493,I don't know,Is this mushroom classified as edible or non-edible?
+206132,2023-05-23T11:24:19.774190,728,266532,,141.187.246.201,2023-05-23T11:24:20.912904,Non-edible,Is this mushroom classified as edible or non-edible?
+206133,2023-05-23T11:24:21.279774,728,266537,,141.187.246.201,2023-05-23T11:24:22.358607,Edible,Is this mushroom classified as edible or non-edible?
+206134,2023-05-23T11:24:21.144690,728,266536,,190.62.115.154,2023-05-23T11:24:22.714227,Non-edible,Is this mushroom classified as edible or non-edible?
+206135,2023-05-23T11:24:23.043199,728,266540,,190.62.115.154,2023-05-23T11:24:23.753214,I don't know,Is this mushroom classified as edible or non-edible?
+206136,2023-05-23T11:24:22.707387,728,266540,,141.187.246.201,2023-05-23T11:24:23.962804,Non-edible,Is this mushroom classified as edible or non-edible?
+206137,2023-05-23T11:24:24.002382,728,266543,,190.62.115.154,2023-05-23T11:24:24.692409,Edible,Is this mushroom classified as edible or non-edible?
+206138,2023-05-23T11:24:24.938908,728,266547,,190.62.115.154,2023-05-23T11:24:25.613318,Edible,Is this mushroom classified as edible or non-edible?
+206139,2023-05-23T11:24:24.404267,728,266545,,141.187.246.201,2023-05-23T11:24:26.097602,Non-edible,Is this mushroom classified as edible or non-edible?
+206140,2023-05-23T11:24:25.909725,728,266549,,190.62.115.154,2023-05-23T11:24:26.597960,Non-edible,Is this mushroom classified as edible or non-edible?
+206141,2023-05-23T11:24:26.411731,728,266550,,141.187.246.201,2023-05-23T11:24:28.213473,Edible,Is this mushroom classified as edible or non-edible?
+206142,2023-05-23T11:24:26.856436,728,266552,,190.62.115.154,2023-05-23T11:24:28.380253,I don't know,Is this mushroom classified as edible or non-edible?
+206143,2023-05-23T11:24:28.578294,728,266554,,141.187.246.201,2023-05-23T11:24:29.631804,Non-edible,Is this mushroom classified as edible or non-edible?
+206144,2023-05-23T11:24:28.639386,728,266555,,190.62.115.154,2023-05-23T11:24:30.112517,Edible,Is this mushroom classified as edible or non-edible?
+206145,2023-05-23T11:24:30.370843,728,266558,,190.62.115.154,2023-05-23T11:24:30.754693,I don't know,Is this mushroom classified as edible or non-edible?
+206146,2023-05-23T11:24:29.991534,728,266556,,141.187.246.201,2023-05-23T11:24:31.086580,Edible,Is this mushroom classified as edible or non-edible?
+206147,2023-05-23T11:24:30.998302,728,266560,,190.62.115.154,2023-05-23T11:24:31.405198,I don't know,Is this mushroom classified as edible or non-edible?
+206148,2023-05-23T11:24:31.660187,728,266563,,190.62.115.154,2023-05-23T11:24:32.128888,Non-edible,Is this mushroom classified as edible or non-edible?
+206149,2023-05-23T11:24:31.474097,728,266560,,141.187.246.201,2023-05-23T11:24:32.151525,Non-edible,Is this mushroom classified as edible or non-edible?
+206150,2023-05-23T11:24:32.398292,728,266565,,190.62.115.154,2023-05-23T11:24:32.637769,Edible,Is this mushroom classified as edible or non-edible?
+206151,2023-05-23T11:24:32.503708,728,266562,,141.187.246.201,2023-05-23T11:24:33.546601,Edible,Is this mushroom classified as edible or non-edible?
+206152,2023-05-23T11:24:32.935608,728,266567,,190.62.115.154,2023-05-23T11:24:33.885096,Edible,Is this mushroom classified as edible or non-edible?
+206153,2023-05-23T11:24:28.028843,728,266523,,190.62.103.252,2023-05-23T11:24:34.178552,Non-edible,Is this mushroom classified as edible or non-edible?
+206154,2023-05-23T11:24:34.131927,728,266570,,190.62.115.154,2023-05-23T11:24:34.475662,Non-edible,Is this mushroom classified as edible or non-edible?
+206155,2023-05-23T11:24:34.714128,728,266573,,190.62.115.154,2023-05-23T11:24:35.004837,I don't know,Is this mushroom classified as edible or non-edible?
+206156,2023-05-23T11:24:33.918722,728,266566,,141.187.246.201,2023-05-23T11:24:35.354793,Edible,Is this mushroom classified as edible or non-edible?
+206157,2023-05-23T11:24:34.455401,728,266531,,190.62.103.252,2023-05-23T11:24:35.718769,Edible,Is this mushroom classified as edible or non-edible?
+206158,2023-05-23T11:24:35.405627,728,266575,,190.62.115.154,2023-05-23T11:24:36.684447,Edible,Is this mushroom classified as edible or non-edible?
+206159,2023-05-23T11:24:35.933578,728,266539,,190.62.103.252,2023-05-23T11:24:36.837657,I don't know,Is this mushroom classified as edible or non-edible?
+206160,2023-05-23T11:24:35.731293,728,266571,,141.187.246.201,2023-05-23T11:24:37.626278,Non-edible,Is this mushroom classified as edible or non-edible?
+206161,2023-05-23T11:24:37.049316,728,266548,,190.62.103.252,2023-05-23T11:24:37.737412,Edible,Is this mushroom classified as edible or non-edible?
+206162,2023-05-23T11:24:37.948353,728,266553,,190.62.103.252,2023-05-23T11:24:38.468293,Non-edible,Is this mushroom classified as edible or non-edible?
+206163,2023-05-23T11:24:38.673511,728,266559,,190.62.103.252,2023-05-23T11:24:39.110146,I don't know,Is this mushroom classified as edible or non-edible?
+206164,2023-05-23T11:24:37.983261,728,266578,,141.187.246.201,2023-05-23T11:24:39.514984,Edible,Is this mushroom classified as edible or non-edible?
+206165,2023-05-23T11:24:39.311307,728,266564,,190.62.103.252,2023-05-23T11:24:39.823806,Non-edible,Is this mushroom classified as edible or non-edible?
+206166,2023-05-23T11:24:40.029466,728,266569,,190.62.103.252,2023-05-23T11:24:40.497221,Edible,Is this mushroom classified as edible or non-edible?
+206167,2023-05-23T11:24:39.873424,728,266582,,141.187.246.201,2023-05-23T11:24:40.692972,Non-edible,Is this mushroom classified as edible or non-edible?
+206168,2023-05-23T11:24:40.697353,728,266574,,190.62.103.252,2023-05-23T11:24:41.344926,Non-edible,Is this mushroom classified as edible or non-edible?
+206169,2023-05-23T11:24:41.532905,728,266577,,190.62.103.252,2023-05-23T11:24:41.887563,Edible,Is this mushroom classified as edible or non-edible?
+206170,2023-05-23T11:24:41.125535,728,266586,,141.187.246.201,2023-05-23T11:24:42.077586,Edible,Is this mushroom classified as edible or non-edible?
+206171,2023-05-23T11:24:42.099882,728,266580,,190.62.103.252,2023-05-23T11:24:42.584048,Non-edible,Is this mushroom classified as edible or non-edible?
+206172,2023-05-23T11:24:42.495263,728,266590,,141.187.246.201,2023-05-23T11:24:43.108763,Non-edible,Is this mushroom classified as edible or non-edible?
+206173,2023-05-23T11:24:42.794468,728,266583,,190.62.103.252,2023-05-23T11:24:43.288936,Non-edible,Is this mushroom classified as edible or non-edible?
+206174,2023-05-23T11:24:43.566207,728,266585,,190.62.103.252,2023-05-23T11:24:43.957587,Edible,Is this mushroom classified as edible or non-edible?
+206175,2023-05-23T11:24:44.177213,728,266588,,190.62.103.252,2023-05-23T11:24:44.573863,Edible,Is this mushroom classified as edible or non-edible?
+206176,2023-05-23T11:24:44.785339,728,266591,,190.62.103.252,2023-05-23T11:24:45.254523,Edible,Is this mushroom classified as edible or non-edible?
+206177,2023-05-23T11:24:45.507837,728,266593,,190.62.103.252,2023-05-23T11:24:45.768547,Edible,Is this mushroom classified as edible or non-edible?
+206178,2023-05-23T11:24:45.978796,728,266595,,190.62.103.252,2023-05-23T11:24:46.342484,Non-edible,Is this mushroom classified as edible or non-edible?
+206179,2023-05-23T11:24:43.695609,728,266594,,141.187.246.201,2023-05-23T11:24:46.359669,Edible,Is this mushroom classified as edible or non-edible?
+206180,2023-05-23T11:24:46.553908,728,266597,,190.62.103.252,2023-05-23T11:24:46.911239,Edible,Is this mushroom classified as edible or non-edible?
+206181,2023-05-23T11:24:47.111005,728,266600,,190.62.103.252,2023-05-23T11:24:47.467868,Non-edible,Is this mushroom classified as edible or non-edible?
+206182,2023-05-23T11:24:46.771857,728,266601,,141.187.246.201,2023-05-23T11:24:47.518568,Non-edible,Is this mushroom classified as edible or non-edible?
+206183,2023-05-23T11:24:47.679869,728,266602,,190.62.103.252,2023-05-23T11:24:48.060763,Edible,Is this mushroom classified as edible or non-edible?
+206184,2023-05-23T11:24:48.276834,728,266605,,190.62.103.252,2023-05-23T11:24:48.724878,Non-edible,Is this mushroom classified as edible or non-edible?
+206185,2023-05-23T11:24:47.871947,728,266605,,141.187.246.201,2023-05-23T11:24:48.762385,Non-edible,Is this mushroom classified as edible or non-edible?
+206186,2023-05-23T11:24:48.935296,728,266607,,190.62.103.252,2023-05-23T11:24:49.373140,Edible,Is this mushroom classified as edible or non-edible?
+206187,2023-05-23T11:24:49.159244,728,266608,,141.187.246.201,2023-05-23T11:24:50.127380,Edible,Is this mushroom classified as edible or non-edible?
+206188,2023-05-23T11:24:49.593484,728,266609,,190.62.103.252,2023-05-23T11:24:50.138312,Non-edible,Is this mushroom classified as edible or non-edible?
+206189,2023-05-23T11:24:50.643183,728,266612,,141.187.246.201,2023-05-23T11:24:51.544950,Edible,Is this mushroom classified as edible or non-edible?
+206190,2023-05-23T11:24:51.939396,728,266614,,141.187.246.201,2023-05-23T11:24:52.582751,Non-edible,Is this mushroom classified as edible or non-edible?
+206191,2023-05-23T11:24:52.947817,728,266616,,141.187.246.201,2023-05-23T11:24:53.881557,Non-edible,Is this mushroom classified as edible or non-edible?
+206192,2023-05-23T11:24:54.257712,728,266618,,141.187.246.201,2023-05-23T11:24:59.010290,Non-edible,Is this mushroom classified as edible or non-edible?
+206193,2023-05-23T11:24:59.373676,728,266620,,141.187.246.201,2023-05-23T11:25:00.304630,Edible,Is this mushroom classified as edible or non-edible?
+206194,2023-05-23T11:25:00.644862,728,266622,,141.187.246.201,2023-05-23T11:25:01.797907,Edible,Is this mushroom classified as edible or non-edible?
+206195,2023-05-23T11:24:50.335513,728,266612,,190.62.103.252,2023-05-23T11:25:02.959984,Edible,Is this mushroom classified as edible or non-edible?
+206196,2023-05-23T11:25:02.166711,728,266624,,141.187.246.201,2023-05-23T11:25:02.987564,Non-edible,Is this mushroom classified as edible or non-edible?
+206197,2023-05-23T11:25:03.155927,728,266615,,190.62.103.252,2023-05-23T11:25:03.684355,Non-edible,Is this mushroom classified as edible or non-edible?
+206198,2023-05-23T11:25:03.871771,728,266619,,190.62.103.252,2023-05-23T11:25:04.223982,Edible,Is this mushroom classified as edible or non-edible?
+206199,2023-05-23T11:25:03.376989,728,266626,,141.187.246.201,2023-05-23T11:25:04.308254,Edible,Is this mushroom classified as edible or non-edible?
+206200,2023-05-23T11:25:04.414731,728,266623,,190.62.103.252,2023-05-23T11:25:04.698132,Non-edible,Is this mushroom classified as edible or non-edible?
+206201,2023-05-23T11:25:04.994149,728,266627,,190.62.103.252,2023-05-23T11:25:05.105171,Edible,Is this mushroom classified as edible or non-edible?
+206202,2023-05-23T11:25:05.357413,728,266629,,190.62.103.252,2023-05-23T11:25:05.473281,Non-edible,Is this mushroom classified as edible or non-edible?
+206203,2023-05-23T11:25:04.675739,728,266630,,141.187.246.201,2023-05-23T11:25:05.860222,Non-edible,Is this mushroom classified as edible or non-edible?
+206204,2023-05-23T11:25:05.672383,728,266631,,190.62.103.252,2023-05-23T11:25:05.885981,Edible,Is this mushroom classified as edible or non-edible?
+206205,2023-05-23T11:25:06.077417,728,266634,,190.62.103.252,2023-05-23T11:25:06.284123,Non-edible,Is this mushroom classified as edible or non-edible?
+206206,2023-05-23T11:25:06.497791,728,266636,,190.62.103.252,2023-05-23T11:25:06.727188,Edible,Is this mushroom classified as edible or non-edible?
+206207,2023-05-23T11:25:06.246507,728,266636,,141.187.246.201,2023-05-23T11:25:06.902824,Edible,Is this mushroom classified as edible or non-edible?
+206208,2023-05-23T11:25:06.918144,728,266638,,190.62.103.252,2023-05-23T11:25:07.247928,Non-edible,Is this mushroom classified as edible or non-edible?
+206209,2023-05-23T11:25:07.429896,728,266640,,190.62.103.252,2023-05-23T11:25:07.824109,Edible,Is this mushroom classified as edible or non-edible?
+206210,2023-05-23T11:25:07.279945,728,266639,,141.187.246.201,2023-05-23T11:25:08.235285,Edible,Is this mushroom classified as edible or non-edible?
+206211,2023-05-23T11:25:08.019014,728,266642,,190.62.103.252,2023-05-23T11:25:08.298086,Non-edible,Is this mushroom classified as edible or non-edible?
+206212,2023-05-23T11:25:08.493637,728,266645,,190.62.103.252,2023-05-23T11:25:08.714202,Edible,Is this mushroom classified as edible or non-edible?
+206213,2023-05-23T11:25:08.974742,728,266647,,190.62.103.252,2023-05-23T11:25:09.084454,Non-edible,Is this mushroom classified as edible or non-edible?
+206214,2023-05-23T11:25:09.278513,728,266649,,190.62.103.252,2023-05-23T11:25:09.486633,Edible,Is this mushroom classified as edible or non-edible?
+206215,2023-05-23T11:25:08.634425,728,266644,,141.187.246.201,2023-05-23T11:25:09.578883,Non-edible,Is this mushroom classified as edible or non-edible?
+206216,2023-05-23T11:25:09.671769,728,266651,,190.62.103.252,2023-05-23T11:25:09.874119,Non-edible,Is this mushroom classified as edible or non-edible?
+206217,2023-05-23T11:25:10.107660,728,266654,,190.62.103.252,2023-05-23T11:25:10.231269,Edible,Is this mushroom classified as edible or non-edible?
+206218,2023-05-23T11:25:10.506097,728,266656,,190.62.103.252,2023-05-23T11:25:10.592253,Non-edible,Is this mushroom classified as edible or non-edible?
+206219,2023-05-23T11:25:10.792694,728,266658,,190.62.103.252,2023-05-23T11:25:10.900255,Non-edible,Is this mushroom classified as edible or non-edible?
+206220,2023-05-23T11:25:11.088385,728,266660,,190.62.103.252,2023-05-23T11:25:11.257009,Non-edible,Is this mushroom classified as edible or non-edible?
+206221,2023-05-23T11:25:09.950221,728,266648,,141.187.246.201,2023-05-23T11:25:11.295750,Edible,Is this mushroom classified as edible or non-edible?
+206222,2023-05-23T11:25:11.449962,728,266663,,190.62.103.252,2023-05-23T11:25:11.561785,Non-edible,Is this mushroom classified as edible or non-edible?
+206223,2023-05-23T11:25:11.744324,728,266665,,190.62.103.252,2023-05-23T11:25:11.892727,Non-edible,Is this mushroom classified as edible or non-edible?
+206224,2023-05-23T11:25:12.336204,728,266667,,190.62.103.252,2023-05-23T11:25:12.489900,I don't know,Is this mushroom classified as edible or non-edible?
+206225,2023-05-23T11:25:11.644216,728,266652,,141.187.246.201,2023-05-23T11:25:12.593360,Edible,Is this mushroom classified as edible or non-edible?
+206226,2023-05-23T11:25:12.713245,728,266669,,190.62.103.252,2023-05-23T11:25:12.804228,I don't know,Is this mushroom classified as edible or non-edible?
+206227,2023-05-23T11:25:13.309750,728,266672,,190.62.103.252,2023-05-23T11:25:13.386241,Non-edible,Is this mushroom classified as edible or non-edible?
+206228,2023-05-23T11:25:13.582330,728,266674,,190.62.103.252,2023-05-23T11:25:13.680276,Non-edible,Is this mushroom classified as edible or non-edible?
+206229,2023-05-23T11:25:13.870500,728,266676,,190.62.103.252,2023-05-23T11:25:13.980974,Non-edible,Is this mushroom classified as edible or non-edible?
+206230,2023-05-23T11:25:14.317671,728,266678,,190.62.103.252,2023-05-23T11:25:14.620175,Non-edible,Is this mushroom classified as edible or non-edible?
+206231,2023-05-23T11:25:12.963021,728,266655,,141.187.246.201,2023-05-23T11:25:14.744225,Edible,Is this mushroom classified as edible or non-edible?
+206232,2023-05-23T11:25:15.116394,728,266659,,141.187.246.201,2023-05-23T11:25:15.891663,Non-edible,Is this mushroom classified as edible or non-edible?
+206233,2023-05-23T11:25:16.250183,728,266662,,141.187.246.201,2023-05-23T11:25:17.167646,Non-edible,Is this mushroom classified as edible or non-edible?
+206234,2023-05-23T11:25:14.811095,728,266680,,190.62.103.252,2023-05-23T11:25:17.499323,Edible,Is this mushroom classified as edible or non-edible?
+206235,2023-05-23T11:25:17.559753,728,266666,,141.187.246.201,2023-05-23T11:25:18.384212,Edible,Is this mushroom classified as edible or non-edible?
+206236,2023-05-23T11:25:17.697540,728,266685,,190.62.103.252,2023-05-23T11:25:19.282586,Non-edible,Is this mushroom classified as edible or non-edible?
+206237,2023-05-23T11:25:19.460737,728,266688,,190.62.103.252,2023-05-23T11:25:20.065728,Edible,Is this mushroom classified as edible or non-edible?
+206238,2023-05-23T11:25:18.745259,728,266670,,141.187.246.201,2023-05-23T11:25:20.684293,Non-edible,Is this mushroom classified as edible or non-edible?
+206239,2023-05-23T11:25:20.252501,728,266690,,190.62.103.252,2023-05-23T11:25:20.797827,Non-edible,Is this mushroom classified as edible or non-edible?
+206240,2023-05-23T11:25:20.999615,728,266693,,190.62.103.252,2023-05-23T11:25:21.495886,Edible,Is this mushroom classified as edible or non-edible?
+206241,2023-05-23T11:25:21.679528,728,266695,,190.62.103.252,2023-05-23T11:25:22.198091,Non-edible,Is this mushroom classified as edible or non-edible?
+206242,2023-05-23T11:25:22.404827,728,266697,,190.62.103.252,2023-05-23T11:25:22.867541,Edible,Is this mushroom classified as edible or non-edible?
+206243,2023-05-23T11:25:23.048318,728,266699,,190.62.103.252,2023-05-23T11:25:23.478006,Non-edible,Is this mushroom classified as edible or non-edible?
+206244,2023-05-23T11:25:23.666754,728,266701,,190.62.103.252,2023-05-23T11:25:24.091920,Edible,Is this mushroom classified as edible or non-edible?
+206245,2023-05-23T11:25:24.297429,728,266703,,190.62.103.252,2023-05-23T11:25:24.705091,Non-edible,Is this mushroom classified as edible or non-edible?
+206246,2023-05-23T11:25:24.955504,728,266705,,190.62.103.252,2023-05-23T11:25:25.241966,Non-edible,Is this mushroom classified as edible or non-edible?
+206247,2023-05-23T11:25:25.425420,728,266707,,190.62.103.252,2023-05-23T11:25:25.791072,Non-edible,Is this mushroom classified as edible or non-edible?
+206248,2023-05-23T11:25:25.977841,728,266709,,190.62.103.252,2023-05-23T11:25:26.419280,Edible,Is this mushroom classified as edible or non-edible?
+206249,2023-05-23T11:25:26.609627,728,266711,,190.62.103.252,2023-05-23T11:25:26.968712,Non-edible,Is this mushroom classified as edible or non-edible?
+206250,2023-05-23T11:25:21.034687,728,266673,,141.187.246.201,2023-05-23T11:25:27.435101,Edible,Is this mushroom classified as edible or non-edible?
+206251,2023-05-23T11:25:27.157376,728,266713,,190.62.103.252,2023-05-23T11:25:27.560311,Edible,Is this mushroom classified as edible or non-edible?
+206252,2023-05-23T11:25:27.744496,728,266716,,190.62.103.252,2023-05-23T11:25:28.125913,Non-edible,Is this mushroom classified as edible or non-edible?
+206253,2023-05-23T11:25:28.300497,728,266718,,190.62.103.252,2023-05-23T11:25:28.767579,Edible,Is this mushroom classified as edible or non-edible?
+206254,2023-05-23T11:25:28.944064,728,266720,,190.62.103.252,2023-05-23T11:25:29.272339,Edible,Is this mushroom classified as edible or non-edible?
+206255,2023-05-23T11:25:29.448386,728,266722,,190.62.103.252,2023-05-23T11:25:29.777953,Edible,Is this mushroom classified as edible or non-edible?
+206256,2023-05-23T11:25:29.996561,728,266724,,190.62.103.252,2023-05-23T11:25:30.322846,Non-edible,Is this mushroom classified as edible or non-edible?
+206257,2023-05-23T11:25:30.578950,728,266726,,190.62.103.252,2023-05-23T11:25:30.872926,I don't know,Is this mushroom classified as edible or non-edible?
+206258,2023-05-23T11:25:31.077549,728,266728,,190.62.103.252,2023-05-23T11:25:31.385322,Non-edible,Is this mushroom classified as edible or non-edible?
+206259,2023-05-23T11:25:31.601007,728,266730,,190.62.103.252,2023-05-23T11:25:31.904432,Edible,Is this mushroom classified as edible or non-edible?
+206260,2023-05-23T11:25:32.098158,728,266732,,190.62.103.252,2023-05-23T11:25:32.420232,Non-edible,Is this mushroom classified as edible or non-edible?
+206261,2023-05-23T11:25:32.603864,728,266734,,190.62.103.252,2023-05-23T11:25:32.971038,I don't know,Is this mushroom classified as edible or non-edible?
+206262,2023-05-23T11:25:33.170205,728,266736,,190.62.103.252,2023-05-23T11:25:33.585408,Non-edible,Is this mushroom classified as edible or non-edible?
+206263,2023-05-23T11:25:33.804580,728,266738,,190.62.103.252,2023-05-23T11:25:34.178075,Edible,Is this mushroom classified as edible or non-edible?
+206264,2023-05-23T11:25:34.463521,728,266740,,190.62.103.252,2023-05-23T11:25:34.751201,Non-edible,Is this mushroom classified as edible or non-edible?
+206265,2023-05-23T11:25:34.955449,728,266742,,190.62.103.252,2023-05-23T11:25:35.276029,I don't know,Is this mushroom classified as edible or non-edible?
+206266,2023-05-23T11:25:35.468691,728,266744,,190.62.103.252,2023-05-23T11:25:35.813174,Non-edible,Is this mushroom classified as edible or non-edible?
+206267,2023-05-23T11:25:27.950860,728,266677,,141.187.246.201,2023-05-23T11:25:36.342979,I don't know,Is this mushroom classified as edible or non-edible?
+206268,2023-05-23T11:25:36.821520,728,266681,,141.187.246.201,2023-05-23T11:25:38.041827,Edible,Is this mushroom classified as edible or non-edible?
+206269,2023-05-23T11:25:35.995699,728,266746,,190.62.103.252,2023-05-23T11:25:38.675667,Edible,Is this mushroom classified as edible or non-edible?
+206270,2023-05-23T11:25:38.870089,728,266750,,190.62.103.252,2023-05-23T11:25:39.353667,I don't know,Is this mushroom classified as edible or non-edible?
+206271,2023-05-23T11:25:38.443051,728,266683,,141.187.246.201,2023-05-23T11:25:39.391717,Edible,Is this mushroom classified as edible or non-edible?
+206272,2023-05-23T11:25:39.611061,728,266753,,190.62.103.252,2023-05-23T11:25:40.048207,Non-edible,Is this mushroom classified as edible or non-edible?
+206273,2023-05-23T11:25:40.284164,728,266755,,190.62.103.252,2023-05-23T11:25:40.701150,Edible,Is this mushroom classified as edible or non-edible?
+206274,2023-05-23T11:25:40.894962,728,266757,,190.62.103.252,2023-05-23T11:25:41.398999,Non-edible,Is this mushroom classified as edible or non-edible?
+206275,2023-05-23T11:25:41.590890,728,266759,,190.62.103.252,2023-05-23T11:25:42.076074,Edible,Is this mushroom classified as edible or non-edible?
+206276,2023-05-23T11:25:42.284940,728,266761,,190.62.103.252,2023-05-23T11:25:42.588287,Non-edible,Is this mushroom classified as edible or non-edible?
+206277,2023-05-23T11:25:42.797985,728,266763,,190.62.103.252,2023-05-23T11:25:43.069169,Non-edible,Is this mushroom classified as edible or non-edible?
+206278,2023-05-23T11:25:43.268968,728,266765,,190.62.103.252,2023-05-23T11:25:43.562044,Non-edible,Is this mushroom classified as edible or non-edible?
+206279,2023-05-23T11:25:43.800923,728,266767,,190.62.103.252,2023-05-23T11:25:43.998663,Edible,Is this mushroom classified as edible or non-edible?
+206280,2023-05-23T11:25:44.202554,728,266769,,190.62.103.252,2023-05-23T11:25:44.487529,Edible,Is this mushroom classified as edible or non-edible?
+206281,2023-05-23T11:25:44.699548,728,266771,,190.62.103.252,2023-05-23T11:25:44.903254,Edible,Is this mushroom classified as edible or non-edible?
+206282,2023-05-23T11:25:45.109713,728,266773,,190.62.103.252,2023-05-23T11:25:45.436100,Non-edible,Is this mushroom classified as edible or non-edible?
+206283,2023-05-23T11:25:45.711738,728,266775,,190.62.103.252,2023-05-23T11:25:45.890751,Edible,Is this mushroom classified as edible or non-edible?
+206284,2023-05-23T11:25:46.098880,728,266777,,190.62.103.252,2023-05-23T11:25:46.445134,Non-edible,Is this mushroom classified as edible or non-edible?
+206285,2023-05-23T11:25:46.650801,728,266779,,190.62.103.252,2023-05-23T11:25:47.177834,Edible,Is this mushroom classified as edible or non-edible?
+206286,2023-05-23T11:25:47.588641,728,266781,,190.62.103.252,2023-05-23T11:25:47.917422,Non-edible,Is this mushroom classified as edible or non-edible?
+206287,2023-05-23T11:25:48.108138,728,266783,,190.62.103.252,2023-05-23T11:25:48.638143,Edible,Is this mushroom classified as edible or non-edible?
+206288,2023-05-23T11:25:49.362403,728,266505,,190.62.103.252,2023-05-23T11:25:49.732951,Edible,Is this mushroom classified as edible or non-edible?
+206289,2023-05-23T11:25:49.990689,728,266529,,190.62.103.252,2023-05-23T11:25:50.225484,Non-edible,Is this mushroom classified as edible or non-edible?
+206290,2023-05-23T11:25:50.406091,728,266542,,190.62.103.252,2023-05-23T11:25:50.827643,Edible,Is this mushroom classified as edible or non-edible?
+206291,2023-05-23T11:25:51.009016,728,266557,,190.62.103.252,2023-05-23T11:25:51.359660,Non-edible,Is this mushroom classified as edible or non-edible?
+206292,2023-05-23T11:25:51.561292,728,266568,,190.62.103.252,2023-05-23T11:25:55.431097,Edible,Is this mushroom classified as edible or non-edible?
+206293,2023-05-23T11:25:55.693852,728,266576,,190.62.103.252,2023-05-23T11:25:56.337103,Non-edible,Is this mushroom classified as edible or non-edible?
+206294,2023-05-23T11:25:56.538224,728,266581,,190.62.103.252,2023-05-23T11:25:57.159023,Edible,Is this mushroom classified as edible or non-edible?
+206295,2023-05-23T11:25:57.477656,728,266587,,190.62.103.252,2023-05-23T11:25:57.925357,Non-edible,Is this mushroom classified as edible or non-edible?
+206296,2023-05-23T11:25:58.118666,728,266592,,190.62.103.252,2023-05-23T11:25:58.553870,Edible,Is this mushroom classified as edible or non-edible?
+206297,2023-05-23T11:25:58.752124,728,266598,,190.62.103.252,2023-05-23T11:25:59.203061,Non-edible,Is this mushroom classified as edible or non-edible?
+206298,2023-05-23T11:25:59.381445,728,266603,,190.62.103.252,2023-05-23T11:25:59.782805,Non-edible,Is this mushroom classified as edible or non-edible?
+206299,2023-05-23T11:26:00.031434,728,266606,,190.62.103.252,2023-05-23T11:26:00.388737,Non-edible,Is this mushroom classified as edible or non-edible?
+206300,2023-05-23T11:26:00.599092,728,266611,,190.62.103.252,2023-05-23T11:26:01.073013,Non-edible,Is this mushroom classified as edible or non-edible?
+206301,2023-05-23T11:26:01.347293,728,266617,,190.62.103.252,2023-05-23T11:26:01.631155,Edible,Is this mushroom classified as edible or non-edible?
+206302,2023-05-23T11:26:01.895278,728,266625,,190.62.103.252,2023-05-23T11:26:02.198729,Non-edible,Is this mushroom classified as edible or non-edible?
+206303,2023-05-23T11:26:02.440968,728,266632,,190.62.103.252,2023-05-23T11:26:02.736806,I don't know,Is this mushroom classified as edible or non-edible?
+206304,2023-05-23T11:26:03.082027,728,266635,,190.62.103.252,2023-05-23T11:26:03.418899,I don't know,Is this mushroom classified as edible or non-edible?
+206305,2023-05-23T11:26:03.984029,728,266643,,190.62.103.252,2023-05-23T11:26:04.563157,Edible,Is this mushroom classified as edible or non-edible?
+206306,2023-05-23T11:26:04.882746,728,266650,,190.62.103.252,2023-05-23T11:26:05.041919,Edible,Is this mushroom classified as edible or non-edible?
+206307,2023-05-23T11:26:05.320219,728,266657,,190.62.103.252,2023-05-23T11:26:05.911895,Edible,Is this mushroom classified as edible or non-edible?
+206308,2023-05-23T11:26:06.228277,728,266664,,190.62.103.252,2023-05-23T11:26:06.406632,Non-edible,Is this mushroom classified as edible or non-edible?
+206309,2023-05-23T11:26:06.638552,728,266671,,190.62.103.252,2023-05-23T11:26:07.140651,Non-edible,Is this mushroom classified as edible or non-edible?
+206310,2023-05-23T11:26:07.399629,728,266679,,190.62.103.252,2023-05-23T11:26:08.009007,Non-edible,Is this mushroom classified as edible or non-edible?
+206311,2023-05-23T11:26:08.199360,728,266684,,190.62.103.252,2023-05-23T11:26:08.694737,Non-edible,Is this mushroom classified as edible or non-edible?
+206312,2023-05-23T11:26:08.888586,728,266687,,190.62.103.252,2023-05-23T11:26:09.272349,Edible,Is this mushroom classified as edible or non-edible?
+206313,2023-05-23T11:26:09.467587,728,266691,,190.62.103.252,2023-05-23T11:26:14.482059,Non-edible,Is this mushroom classified as edible or non-edible?
+206314,2023-05-23T11:26:14.651385,728,266694,,190.62.103.252,2023-05-23T11:26:17.225467,Non-edible,Is this mushroom classified as edible or non-edible?
+206315,2023-05-23T11:26:17.410284,728,266698,,190.62.103.252,2023-05-23T11:26:19.618849,Non-edible,Is this mushroom classified as edible or non-edible?
+206316,2023-05-23T11:26:19.807201,728,266702,,190.62.103.252,2023-05-23T11:26:22.894980,Non-edible,Is this mushroom classified as edible or non-edible?
+206317,2023-05-23T11:26:23.071051,728,266706,,190.62.103.252,2023-05-23T11:26:25.670226,Edible,Is this mushroom classified as edible or non-edible?
+206318,2023-05-23T11:26:25.850212,728,266710,,190.62.103.252,2023-05-23T11:26:26.724202,Edible,Is this mushroom classified as edible or non-edible?
+206319,2023-05-23T11:26:26.923649,728,266714,,190.62.103.252,2023-05-23T11:26:27.437607,Edible,Is this mushroom classified as edible or non-edible?
+206320,2023-05-23T11:26:27.641540,728,266717,,190.62.103.252,2023-05-23T11:26:28.060783,Non-edible,Is this mushroom classified as edible or non-edible?
+206321,2023-05-23T11:26:28.338808,728,266721,,190.62.103.252,2023-05-23T11:26:28.722773,Edible,Is this mushroom classified as edible or non-edible?
+206322,2023-05-23T11:26:28.946720,728,266725,,190.62.103.252,2023-05-23T11:26:29.310106,I don't know,Is this mushroom classified as edible or non-edible?
+206323,2023-05-23T11:26:29.516758,728,266729,,190.62.103.252,2023-05-23T11:26:29.939980,I don't know,Is this mushroom classified as edible or non-edible?
+206324,2023-05-23T11:26:30.162879,728,266733,,190.62.103.252,2023-05-23T11:26:30.574605,Non-edible,Is this mushroom classified as edible or non-edible?
+206325,2023-05-23T11:26:30.781328,728,266737,,190.62.103.252,2023-05-23T11:26:31.441786,Edible,Is this mushroom classified as edible or non-edible?
+206326,2023-05-23T11:26:31.651931,728,266741,,190.62.103.252,2023-05-23T11:26:32.146016,Non-edible,Is this mushroom classified as edible or non-edible?
+206327,2023-05-23T11:26:32.476310,728,266745,,190.62.103.252,2023-05-23T11:26:32.877598,Non-edible,Is this mushroom classified as edible or non-edible?
+206328,2023-05-23T11:26:33.421317,728,266748,,190.62.103.252,2023-05-23T11:26:33.568283,Edible,Is this mushroom classified as edible or non-edible?
+206329,2023-05-23T11:26:33.794935,728,266751,,190.62.103.252,2023-05-23T11:26:34.381263,Non-edible,Is this mushroom classified as edible or non-edible?
+206330,2023-05-23T11:26:34.603745,728,266754,,190.62.103.252,2023-05-23T11:26:34.993127,Non-edible,Is this mushroom classified as edible or non-edible?
+206331,2023-05-23T11:26:35.226375,728,266758,,190.62.103.252,2023-05-23T11:26:35.668373,Edible,Is this mushroom classified as edible or non-edible?
+206332,2023-05-23T11:26:35.876745,728,266762,,190.62.103.252,2023-05-23T11:26:36.355443,Non-edible,Is this mushroom classified as edible or non-edible?
+206333,2023-05-23T11:26:36.623349,728,266766,,190.62.103.252,2023-05-23T11:26:36.964067,Non-edible,Is this mushroom classified as edible or non-edible?
+206334,2023-05-23T11:26:37.192576,728,266770,,190.62.103.252,2023-05-23T11:26:37.613016,Edible,Is this mushroom classified as edible or non-edible?
+206335,2023-05-23T11:26:37.828249,728,266774,,190.62.103.252,2023-05-23T11:26:38.256928,Non-edible,Is this mushroom classified as edible or non-edible?
+206336,2023-05-23T11:26:38.463523,728,266778,,190.62.103.252,2023-05-23T11:26:38.886070,I don't know,Is this mushroom classified as edible or non-edible?
+206337,2023-05-23T11:26:39.099297,728,266782,,190.62.103.252,2023-05-23T11:26:39.548114,Non-edible,Is this mushroom classified as edible or non-edible?
+206338,2023-05-23T11:26:40.053978,728,266513,,190.62.103.252,2023-05-23T11:26:40.170468,Edible,Is this mushroom classified as edible or non-edible?
+206339,2023-05-23T11:26:40.558469,728,266551,,190.62.103.252,2023-05-23T11:26:40.744874,Non-edible,Is this mushroom classified as edible or non-edible?
+206340,2023-05-23T11:26:40.923708,728,266572,,190.62.103.252,2023-05-23T11:26:41.452442,Non-edible,Is this mushroom classified as edible or non-edible?
+206341,2023-05-23T11:26:41.694481,728,266584,,190.62.103.252,2023-05-23T11:26:42.117572,Non-edible,Is this mushroom classified as edible or non-edible?
+206342,2023-05-23T11:26:42.301504,728,266596,,190.62.103.252,2023-05-23T11:26:42.719949,Non-edible,Is this mushroom classified as edible or non-edible?
+206343,2023-05-23T11:26:42.901657,728,266604,,190.62.103.252,2023-05-23T11:26:46.390226,Edible,Is this mushroom classified as edible or non-edible?
+206344,2023-05-23T11:26:46.581040,728,266613,,190.62.103.252,2023-05-23T11:26:46.972556,Edible,Is this mushroom classified as edible or non-edible?
+206345,2023-05-23T11:26:47.166270,728,266628,,190.62.103.252,2023-05-23T11:26:47.647549,Non-edible,Is this mushroom classified as edible or non-edible?
+206346,2023-05-23T11:26:47.836880,728,266637,,190.62.103.252,2023-05-23T11:26:48.204575,Edible,Is this mushroom classified as edible or non-edible?
+206347,2023-05-23T11:26:48.405817,728,266646,,190.62.103.252,2023-05-23T11:26:48.804381,Non-edible,Is this mushroom classified as edible or non-edible?
+206348,2023-05-23T11:26:49.016598,728,266661,,190.62.103.252,2023-05-23T11:26:49.348880,Edible,Is this mushroom classified as edible or non-edible?
+206349,2023-05-23T11:26:49.546480,728,266675,,190.62.103.252,2023-05-23T11:26:49.907646,Non-edible,Is this mushroom classified as edible or non-edible?
+206350,2023-05-23T11:26:50.115003,728,266686,,190.62.103.252,2023-05-23T11:26:50.473062,Edible,Is this mushroom classified as edible or non-edible?
+206351,2023-05-23T11:26:50.678669,728,266692,,190.62.103.252,2023-05-23T11:26:51.112932,Non-edible,Is this mushroom classified as edible or non-edible?
+206352,2023-05-23T11:26:51.320721,728,266700,,190.62.103.252,2023-05-23T11:26:51.763485,Edible,Is this mushroom classified as edible or non-edible?
+206353,2023-05-23T11:26:51.973982,728,266708,,190.62.103.252,2023-05-23T11:26:52.312168,Edible,Is this mushroom classified as edible or non-edible?
+206354,2023-05-23T11:26:52.581186,728,266715,,190.62.103.252,2023-05-23T11:26:52.813791,Edible,Is this mushroom classified as edible or non-edible?
+206355,2023-05-23T11:26:53.020400,728,266723,,190.62.103.252,2023-05-23T11:26:53.389029,Non-edible,Is this mushroom classified as edible or non-edible?
+206356,2023-05-23T11:26:53.589970,728,266731,,190.62.103.252,2023-05-23T11:26:53.924827,Non-edible,Is this mushroom classified as edible or non-edible?
+206357,2023-05-23T11:26:54.124453,728,266739,,190.62.103.252,2023-05-23T11:26:54.452627,Non-edible,Is this mushroom classified as edible or non-edible?
+206358,2023-05-23T11:26:54.659657,728,266747,,190.62.103.252,2023-05-23T11:26:54.975404,Non-edible,Is this mushroom classified as edible or non-edible?
+206359,2023-05-23T11:26:55.179007,728,266752,,190.62.103.252,2023-05-23T11:26:55.610484,Edible,Is this mushroom classified as edible or non-edible?
+206360,2023-05-23T11:26:55.817093,728,266760,,190.62.103.252,2023-05-23T11:26:56.243413,Non-edible,Is this mushroom classified as edible or non-edible?
+206361,2023-05-23T11:26:56.449766,728,266768,,190.62.103.252,2023-05-23T11:26:56.834865,Edible,Is this mushroom classified as edible or non-edible?
+206362,2023-05-23T11:26:57.042990,728,266776,,190.62.103.252,2023-05-23T11:26:57.362598,Non-edible,Is this mushroom classified as edible or non-edible?
+206363,2023-05-23T11:26:57.803676,728,266534,,190.62.103.252,2023-05-23T11:26:57.898349,I don't know,Is this mushroom classified as edible or non-edible?
+206364,2023-05-23T11:26:58.126972,728,266579,,190.62.103.252,2023-05-23T11:26:58.499378,I don't know,Is this mushroom classified as edible or non-edible?
+206365,2023-05-23T11:26:58.762427,728,266599,,190.62.103.252,2023-05-23T11:26:59.017685,Non-edible,Is this mushroom classified as edible or non-edible?
+206366,2023-05-23T11:26:59.193098,728,266621,,190.62.103.252,2023-05-23T11:26:59.658868,Non-edible,Is this mushroom classified as edible or non-edible?
+206367,2023-05-23T11:26:59.826306,728,266641,,190.62.103.252,2023-05-23T11:27:00.186180,Non-edible,Is this mushroom classified as edible or non-edible?
+206368,2023-05-23T11:27:00.362059,728,266668,,190.62.103.252,2023-05-23T11:27:00.762909,Edible,Is this mushroom classified as edible or non-edible?
+206369,2023-05-23T11:27:00.945774,728,266689,,190.62.103.252,2023-05-23T11:27:01.331487,Edible,Is this mushroom classified as edible or non-edible?
+206370,2023-05-23T11:27:01.519450,728,266704,,190.62.103.252,2023-05-23T11:27:01.849080,Edible,Is this mushroom classified as edible or non-edible?
+206371,2023-05-23T11:27:02.099387,728,266719,,190.62.103.252,2023-05-23T11:27:02.369232,Edible,Is this mushroom classified as edible or non-edible?
+206372,2023-05-23T11:27:02.564877,728,266735,,190.62.103.252,2023-05-23T11:27:02.854891,Edible,Is this mushroom classified as edible or non-edible?
+206373,2023-05-23T11:27:03.053615,728,266749,,190.62.103.252,2023-05-23T11:27:03.435954,Non-edible,Is this mushroom classified as edible or non-edible?
+206374,2023-05-23T11:27:03.643971,728,266764,,190.62.103.252,2023-05-23T11:27:04.033166,Non-edible,Is this mushroom classified as edible or non-edible?
+206375,2023-05-23T11:27:04.335656,728,266780,,190.62.103.252,2023-05-23T11:27:04.531783,Non-edible,Is this mushroom classified as edible or non-edible?
+206376,2023-05-23T11:27:04.974399,728,266561,,190.62.103.252,2023-05-23T11:27:05.054153,I don't know,Is this mushroom classified as edible or non-edible?
+206377,2023-05-23T11:27:05.283057,728,266610,,190.62.103.252,2023-05-23T11:27:05.622778,Non-edible,Is this mushroom classified as edible or non-edible?
+206378,2023-05-23T11:27:05.788203,728,266653,,190.62.103.252,2023-05-23T11:27:06.325577,Edible,Is this mushroom classified as edible or non-edible?
+206379,2023-05-23T11:27:06.568912,728,266696,,190.62.103.252,2023-05-23T11:27:06.978720,Non-edible,Is this mushroom classified as edible or non-edible?
+206380,2023-05-23T11:27:07.143993,728,266727,,190.62.103.252,2023-05-23T11:27:07.555379,I don't know,Is this mushroom classified as edible or non-edible?
+206381,2023-05-23T11:27:07.780763,728,266756,,190.62.103.252,2023-05-23T11:27:08.150402,Non-edible,Is this mushroom classified as edible or non-edible?
+206382,2023-05-23T11:27:08.540136,728,266589,,190.62.103.252,2023-05-23T11:27:08.646375,Edible,Is this mushroom classified as edible or non-edible?
+206383,2023-05-23T11:27:08.873443,728,266682,,190.62.103.252,2023-05-23T11:27:09.184768,Non-edible,Is this mushroom classified as edible or non-edible?
+206384,2023-05-23T11:27:09.337249,728,266743,,190.62.103.252,2023-05-23T11:27:09.808957,I don't know,Is this mushroom classified as edible or non-edible?
+206385,2023-05-23T11:27:10.202488,728,266633,,190.62.103.252,2023-05-23T11:27:10.362722,Non-edible,Is this mushroom classified as edible or non-edible?
+206386,2023-05-23T11:27:10.590327,728,266772,,190.62.103.252,2023-05-23T11:27:10.875865,Non-edible,Is this mushroom classified as edible or non-edible?
+206387,2023-05-23T11:27:11.249338,728,266712,,190.62.103.252,2023-05-23T11:27:11.370581,Non-edible,Is this mushroom classified as edible or non-edible?
