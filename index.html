@@ -116,23 +116,16 @@
           <div style="height:20px"></div>
           <div style="width:800px">
              <span style="font-size:17px;text-align: justify;">
-             Modelling customer shopping intentions is crucial for e-commerce stores, as it directly impacts user experience and engagement. Accurately understanding what a customer is searching for, such as whether they are looking for electronics or groceries with the search query “apple”, is essential for providing personalized recommendations. Session-based recommendation, which utilizes customer session data to predict their next purchase, has become increasingly popular with the development of data mining and machine learning techniques. However, few studies have explored session-based recommendation under real-world multilingual and imbalanced scenarios.
-             </span>
-             <div style="height:10px"></div>
-             <span style="font-size:17px;text-align: justify;">
-                To address this gap, we present the "Multilingual Shopping Session Dataset," a dataset consisting of millions of user sessions from six different locales, where the major languages of products are English, German, Japanese, French, Italian, and Spanish. The dataset is imbalanced, with fewer French, Italian, and Spanish products than English, German, and Japanese. With this data, we introduce three different tasks:
-                <ul>
-                   <li>1. predicting the next engaged product for sessions from English, German, and Japanese
-                   </li>
-                   <li>2. predicting the next engaged product for sessions from French, Italian, and Spanish, where transfer learning techniques are encouraged
-                   </li>
-                   <li>3. predicting the title for the next engaged product
-                   </li>
-                </ul>
-             </span>
-             <div style="height:10px"></div>
-             <span style="font-size:17px;text-align: justify;">
-             We hope this dataset and competition will encourage the development of multilingual recommendation systems, which can enhance personalization and understanding of global trends and preferences. This competition aims to provide practical solutions that benefit customers worldwide by promoting diversity and innovation in data science. The dataset will be publicly available to the research community, and standard evaluation metrics will be used to assess model performance.
+               In Switzerland, there are approximately 5,000 different mushroom species that can be foraged from summer until the first autumn frost. Among this vast variety, three species stand out as the most popular and highly favored by mushroom enthusiasts: the death cap, the porcini, and the morel. Recognizing that many people seek specific mushroom types, we have developed a Machine Learning algorithm specifically designed to assist in identifying the seven most sought-after mushroom species in Switzerland.
+               <div style="height:10px"></div>
+
+               Mushroom classification using Machine Learning is a well-established field that has gained traction in recent years due to the availability of public datasets containing images of mushrooms. Various applications, such as Picture Mushroom, utilize machine learning models to classify edible mushrooms. However, the challenge lies in accurately identifying the diverse array of mushroom species, as misidentification can have severe consequences. To address this issue, we have chosen to focus on a smaller set of seven specific species, allowing us to achieve more relevant and precise results.
+               <div style="height:10px"></div>
+               
+               This project is motivated by the urgent need to mitigate the significant risks associated with misidentifying mushrooms, as consuming toxic varieties can lead to severe illness or even fatality. Our objective is to develop a robust model capable of accurately classifying mushrooms, providing mushroom enthusiasts and individuals with a reliable decision-making algorithm for mushroom consumption and safety.
+               <div style="height:10px"></div>
+               
+               By leveraging Machine Learning techniques, our model aims to empower users with an informed approach to mushroom foraging and consumption. The algorithm will serve as a valuable tool for individuals to make educated decisions regarding mushroom selection, ensuring their safety and enjoyment while appreciating Switzerland's rich fungal biodiversity.
              </span>
           </div>
           <!--SEPARATION-->
@@ -148,26 +141,13 @@
           <div style="height:20px"></div>
           <div style="width:800px">
              <span style="font-size:17px;text-align: justify;">
-             The Multilingual Shopping Session Dataset is a collection of anonymized customer sessions containing products from six different locales: English, German, Japanese, French, Italian, and Spanish. It consists of two main components: user sessions and product attributes. User sessions are a list of products that a user has engaged with in chronological order, while product attributes include various details like product title, price in local currency, brand, colour, and description.
-             </span>
-             <div style="height:10px"></div>
-             <span style="font-size:17px;text-align: justify;">
-             The dataset has been divided into three splits: train, phase-1 test, and phase-2 test. For Task 1 and Task 2, the proportions for each language are roughly 10:1:1. For Task 3, the number of samples in the phase-1 test and phase-2 test is fixed at 10,000. All three tasks share the same train set, while their test sets have been constructed according to their specific objectives. Task 1 uses English, German, and Japanese data, while Task 2 uses French, Italian, and Spanish data. Participants in Task 2 are encouraged to use transfer learning to improve their system's performance on the test set. For Task 3, the test set includes products that do not appear in the training set, and participants are asked to generate the title of the next product based on the user session.
-             Description of the dataset:
-             </span>
-             <div style="height:10px">
-             </div>
-             <ul>
-                <li>locale: the locale code of the product (e.g., DE)
-                </li>
-                id: a unique for the product. Also known as Amazon Standard Item Number (ASIN) (e.g., B07WSY3MG8)    
-                </li>
-                <li>brand: item brand name (e.g., “Japanese Aesthetic Flowers & Vaporwave Clothing”)
-                </li>
-             </ul>
-             <div style="height:10px"></div>
-             <span style="font-size:17px;text-align: justify;">
-             We hope this dataset and competition will encourage the development of multilingual recommendation systems, which can enhance personalization and understanding of global trends and preferences. This competition aims to provide practical solutions that benefit customers worldwide by promoting diversity and innovation in data science. The dataset will be publicly available to the research community, and standard evaluation metrics will be used to assess model performance.
+               The dataset comprises a collection of photographs showcasing various mushroom species found in Switzerland. Careful curation was employed to extract a representative subset from an extensive and diverse dataset. Within this refined selection, we focused on 14 distinct mushroom species. Notably, each species is represented by a pair of mushrooms—an edible one and a visually similar, yet non-edible counterpart.
+               <div style="height:10px"></div>
+
+               By meticulously handpicking these paired specimens, we aimed to highlight the subtle differentiating features between edible and non-edible mushrooms. This approach not only enhances the dataset's educational value but also fosters an understanding of the visual cues and characteristics that distinguish safe-to-consume mushrooms from their potentially harmful look-alikes.
+               <div style="height:10px"></div>
+               
+               Furthermore, the geographical focus on Switzerland ensures that the dataset captures the specific mushroom species found within this region. This localized approach offers valuable insights into the mushroom biodiversity unique to Switzerland's natural habitats, thereby catering to researchers, enthusiasts, and conservationists interested in understanding and preserving the mushroom ecosystem in this geographical area.
              </span>
           </div>
           <!--SEPARATION-->
@@ -181,7 +161,240 @@
           <div style="height:20px"></div>
           <div style="width:800px">
              <span style="font-size:17px;text-align: justify;">
-             The main objective of this competition is to build advanced session-based algorithms/models that directly predicts the next engaged product or generates its title text. The three tasks we proposed are:
+               As contributors of this project, your role holds immense significance in advancing the classification of mushrooms based on their edibility. Your tasks encompass two primary responsibilities, starting with acquiring the necessary knowledge and skills to classify the 14 mushroom species as either edible or non-edible. To facilitate this learning process, you have access to a comprehensive tutorial that provides detailed information on distinguishing characteristics and identification criteria for each mushroom species.
+               <div style="height:10px"></div>
+
+               Once you have familiarized yourself with the classification criteria and can confidently recognize each of the 14 mushrooms, you will proceed to the second phase of your task: classifying the images within the dataset. This dataset comprises a diverse collection of mushroom images, and your role is to assign a classification label of "edible," "non-edible," or "unknown" to each image.
+               <div style="height:10px"></div>
+               
+               When analyzing an image, you should carefully assess its visual characteristics, taking into account color, shape, texture, and other distinguishing features. Drawing upon the knowledge you acquired during the learning phase, you will determine whether the depicted mushroom is edible, non-edible, or if uncertainty persists, you should classify it as "unknown."
+               <div style="height:10px"></div>
+               
+               Your meticulous efforts in accurately labeling the dataset images contribute significantly to the development of the Machine Learning algorithm. By providing precise and consistent classifications, you enable the model to learn and generalize patterns, enhancing its accuracy in classifying mushrooms in real-world scenarios.
+               <div style="height:10px"></div>
+               
+               It is crucial to exercise caution and adhere to strict guidelines during the classification process. The potential consequences of misclassification underscore the importance of attention to detail and expertise. Your dedication to maintaining accuracy ensures the reliability and safety of the algorithm's recommendations, empowering individuals to make informed decisions regarding mushroom edibility.
+               <div style="height:10px"></div>
+               
+               Overall, your tasks encompass both learning and applying your knowledge to classify the 14 mushroom species accurately. By successfully labeling the dataset images as edible, non-edible, or unknown, you contribute invaluable insights that drive the development of an effective and reliable Machine Learning algorithm for mushroom classification. Your contributions play a vital role in promoting safety and providing valuable information to mushroom enthusiasts and individuals alike.
+             </span>
+             <div style="height:10px"></div>
+             <div style="height:10px"></div>
+          </div>
+          <!--TUTORIAL-->
+          <div  style="align-items:center;width:500px;height:25px;border-radius:15px;">
+             <i class="bi bi-list-task" style="color:orange"></i>
+             <span style="font-weight:bold;font-size:20px">Tutorial:</span>
+             <div style="width:20px"></div>
+          </div>
+          <div style="height:20px"></div>
+          <div style="width:800px">
+             <span style="font-size:17px;text-align: justify;">
+               Welcome to the tutorial designed to equip you with the knowledge and skills needed to accurately classify the 14 mushroom species. This comprehensive resource will guide you through the distinguishing characteristics that differentiate edible and non-edible mushrooms. Mastering this classification is vital for ensuring the reliability and safety of our Machine Learning algorithm. Let's embark on this educational journey together and promote informed decision-making in mushroom identification.
+               <div style="height:10px"></div>
+
+               <h4>Morchella (edible)</h4>
+             <div>
+               <img src="./src/images-20/Morchella/Morchella_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Distinctive honeycomb-like cap</li>
+                  <li>Cone-shaped or brain-like structure</li>
+                  <li>Cap color varies from light tan to dark brown</li>
+                  <li>Often exhibits a lighter-colored ridged pattern</li>
+                  <li>Coarse and ridged surface texture</li>
+                  <li>Hollow stem</li>
+                  <li>Light-colored stem attached to the lower portion of the cap</li>
+              </ul>
+             </div>
+
+             <h4>Gyromitra esculenta (non edible twin of Morchella)</h4>
+             <div>
+               <img src="./src/images-20/Gyromitra esculenta/Gyromitra esculenta_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Distinctive brain-like or saddle-shaped cap</li>
+                  <li>Irregular and convoluted surface texture</li>
+                  <li>Cap color varies from light brown to dark reddish-brown</li>
+                  <li>Often appears wrinkled and folded</li>
+                  <li>No distinct cap stem</li>
+                  <li>Cap attached directly to the upper part of the mushroom</li>
+              </ul>
+             </div>
+
+             <h4>Cantharellus (edible)</h4>
+             <div>
+               <img src="./src/images-20/Cantharellus/Cantharellus_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Distinctive funnel or trumpet-shaped cap</li>
+                  <li>Cap color ranges from vibrant yellow to orange</li>
+                  <li>Smooth and wavy cap surface</li>
+                  <li>Cap is often concave or depressed in the center</li>
+                  <li>Gills are fork-like and extend from the cap to the stem</li>
+                  <li>Stem is often stout, firm, and of a similar color to the cap</li>
+                  <li>Overall appearance can vary, but generally recognized as a visually appealing mushroom</li>
+              </ul>
+             </div>
+
+             <h4>Amanita muscaria (non edible twin of Cantharellus)</h4>
+             <div>
+               <img src="./src/images-20/Amanita muscaria/Amanita muscaria_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Iconic and easily recognizable mushroom</li>
+                  <li>Large and striking cap, usually bright red or orange</li>
+                  <li>Cap covered in distinct white or yellowish warts or spots</li>
+                  <li>Cap is often convex when young, becoming flat or slightly concave with age</li>
+                  <li>White gills that are free and not attached to the stem</li>
+                  <li>Thick and sturdy stem, often white or cream-colored, with a bulbous base</li>
+                  <li>Presence of a distinct ring or annulus around the stem</li>
+                  <li>Overall appearance can vary, but the red or orange cap with white or yellowish spots is a defining characteristic</li>
+              </ul>
+             </div>
+
+
+
+
+             <h4>Boletus edulis (edible)</h4>
+             <div>
+               <img src="./src/images-20/Boletus edulis/Boletus edulis_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Robust and solid mushroom</li>
+                  <li>Cap is large, typically ranging from 5 to 25 centimeters in diameter</li>
+                  <li>Cap shape varies from convex to flat, often with a slightly depressed center</li>
+                  <li>Cap color is typically brown, ranging from light to dark shades</li>
+                  <li>Cap surface is smooth and dry, sometimes displaying cracks or scales</li>
+                  <li>Pores on the underside of the cap are small, round, and initially white or yellowish, later turning olive or greenish-yellow with age</li>
+                  <li>Stem is thick, sturdy, and often has a bulbous base</li>
+                  <li>Stem color is similar to or slightly lighter than the cap, sometimes displaying a reticulated pattern</li>
+                  <li>Overall appearance can vary, but the combination of a large cap, brown color, and small, round pores on the underside are characteristic of Boletus edulis</li>
+              </ul>
+             </div>
+
+             <h4>Boletus radicant (non edible twin of Boletus edulis)</h4>
+             <div>
+               <img src="./src/images-20/Boletus radicans/Boletus radicans_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Boletus radicant, also known as the rooting bolete, is a mushroom species.</li>
+                  <li>Cap shape varies from convex to flat, sometimes becoming slightly depressed in the center.</li>
+                  <li>The cap color ranges from dark reddish-brown to chestnut brown.</li>
+                  <li>The cap surface is dry, smooth, and often appears velvety.</li>
+                  <li>The pore surface underneath the cap is initially yellow, later turning olive or olive-brown with age.</li>
+                  <li>The tubes are angular and extend downward from the cap.</li>
+                  <li>The stem is stout, often tapering towards the base, and similar in color to the cap or slightly lighter.</li>
+                  <li>The stem is typically covered with a network-like pattern or reticulation.</li>
+                  <li>Overall, Boletus radicant has a robust appearance, with a dark brown cap, angular tubes, and a stout stem with reticulation.</li>
+              </ul>
+             </div>
+
+
+             <h4>Lepiota (edible)</h4>
+             <div>
+               <img src="./src/images-20/Lepiota/Lepiota_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Lepiota is a genus of mushrooms that includes various species.</li>
+                  <li>The cap shape can range from convex to bell-shaped or conical.</li>
+                  <li>Cap colors vary widely among species, including white, cream, brown, or reddish-brown.</li>
+                  <li>The cap surface can be smooth, scaly, or adorned with patches or spots.</li>
+                  <li>Gills are typically free from the stem and can be white, cream, or pinkish.</li>
+                  <li>The stem is slender, often with a ring or annulus present.</li>
+                  <li>Some Lepiota species have a distinct bulbous base or volva.</li>
+                  <li>Overall, Lepiota mushrooms exhibit a delicate and often elegant appearance.</li>
+              </ul>
+             </div>
+
+             <h4>Macrolepiota procera (non edible twin of Lepiota)</h4>
+             <div>
+               <img src="./src/images-20/Macrolepiota procera/Macrolepiota procera_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Macrolepiota procera, also known as the parasol mushroom, is a large and impressive mushroom species.</li>
+                  <li>The cap is initially egg-shaped and then expands into a broad, umbrella-like shape as it matures.</li>
+                  <li>Cap color is typically creamy-white to light brown, with darker brown scales or patches on the surface.</li>
+                  <li>The cap surface is scaly, with the scales arranged in a radial pattern.</li>
+                  <li>Gills are white or cream-colored and are free from the stem.</li>
+                  <li>The stem is tall, slender, and often has a distinctive swollen base.</li>
+                  <li>The stem color is white, sometimes with brownish scales towards the base.</li>
+                  <li>The stem may feature a prominent, movable ring or annulus.</li>
+                  <li>Overall, Macrolepiota procera has an impressive stature, with a large, umbrella-shaped cap, scaly surface, and tall, slender stem.</li>
+              </ul>
+             </div>
+
+
+             <h4>Laccaria amethystina (edible)</h4>
+             <div>
+               <img src="./src/images-20/Laccaria amethystina/Laccaria amethystina_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Laccaria amethystina, commonly known as the amethyst deceiver, is a small and colorful mushroom species.</li>
+                  <li>The cap is typically convex or bell-shaped, with a diameter ranging from 2 to 8 centimeters.</li>
+                  <li>Cap color can vary, but it is often vibrant purple or lilac, fading to pale or whitish towards the edges.</li>
+                  <li>The cap surface is smooth and sometimes slightly sticky when moist.</li>
+                  <li>Gills are closely spaced, narrow, and attached to the stem.</li>
+                  <li>The gill color matches or complements the cap color, often appearing purplish or pinkish.</li>
+                  <li>The stem is slender, fragile, and typically similar in color to the cap.</li>
+                  <li>The overall appearance of Laccaria amethystina is delicate and captivating, with its vibrant purple or lilac cap and complementary gills.</li>
+              </ul>
+             </div>
+
+             <h4>Cortinarius vernus  (non edible twin of Laccaria amethystina)</h4>
+             <div>
+               <img src="./src/images-20/Cortinarius vernus/Cortinarius vernus_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>The cap is typically reddish-brown or chestnut in color, sometimes with darker patches.</li>
+                  <li>The cap surface is smooth and often slightly sticky when moist.</li>
+                  <li>The gills are initially pale yellow but can turn rust-colored as they mature.</li>
+                  <li>The stem is slender, often with a distinctive cobweb-like veil (cortina) when young.</li>
+              </ul>
+             </div>
+
+
+             <h4>Coprinus comatus (edible)</h4>
+             <div>
+               <img src="./src/images-20/Coprinus comatus/Coprinus comatus_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Cap: Initially oval-shaped, later bell-shaped or conical; white or creamy white in color; covered in shaggy scales or flakes.</li>
+                  <li>Gills: Crowded, white, and free from the stem.</li>
+                  <li>Stem: Tall, slender, often with a swollen base.</li>
+                  <li>Unique Feature: The cap can dissolve and form a black, inky liquid as it matures.</li>
+              </ul>
+             </div>
+
+             <h4>Coprinopsis atramentaria (non edible twin of Coprinus comatus)</h4>
+             <div>
+               <img src="./src/images-20/Coprinopsis atramentaria/Coprinopsis atramentaria_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Cap: Initially bell-shaped, becoming convex or flattened with age; dark gray to black in color.</li>
+                  <li>Gills: Initially white, turning gray and eventually black as the mushroom matures.</li>
+                  <li>Stem: Tall and slender, sometimes with a slightly bulbous base; white or pale gray in color.</li>
+                  <li>Veil: Initially present as a partial veil that covers the gills, leaving a ring or remnants on the upper stem.</li>
+                  <li>Spore Print: Black or dark brown, which gives rise to the common name "inky cap."</li>
+              </ul>
+             </div>
+
+
+             <h4>Agaricus campestris (edible)</h4>
+             <div>
+               <img src="./src/images-20/Agaricus campestris/Agaricus campestris_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Cap: Initially rounded or oval-shaped, becoming convex and finally flattening with age; usually creamy white to light brown in color.</li>
+                  <li>Cap Surface: Smooth and sometimes with small scales or patches, especially when young.</li>
+                  <li>Gills: Initially pink, then turning dark brown as the mushroom matures; crowded and free from the stem.</li>
+                  <li>Ring: Often present as a partial veil that forms a ring-like structure on the upper stem, which may disappear or leave remnants.</li>
+                  <li>Stem: White or creamy white, sometimes with a slightly bulbous base; sturdy and firm.</li>
+                  <li>Spore Print: Dark brown.</li>
+              </ul>
+             </div>
+
+             <h4>Agaricus xanthodermus (non edible twin of Agaricus campestris)</h4>
+             <div>
+               <img src="./src/images-20/Agaricus xanthodermus/Agaricus xanthodermus_0.jpg" alt="Description of the image">
+               <ul>
+                  <li>Cap: Initially rounded or oval-shaped, expanding to convex and eventually flattening; typically white or cream-colored, but often develops yellow discoloration when bruised or handled.</li>
+                  <li>Cap Surface: Smooth and sometimes with small scales or patches, especially when young.</li>
+                  <li>Gills: Initially pink, then turning dark brown as the mushroom matures; crowded and free from the stem.</li>
+                  <li>Ring: Often present as a partial veil that forms a ring-like structure on the upper stem, which may disappear or leave remnants.</li>
+                  <li>Stem: White or cream-colored, sometimes with a bulbous base; when bruised or damaged, the stem turns yellow, particularly at the base.</li>
+                  <li>Odor: Often described as phenolic or resembling ink or phenol-like chemicals.</li>
+                  <li>Spore Print: Dark brown.</li>
+              </ul>
+             </div>
+
              </span>
              <div style="height:10px"></div>
              <div style="height:10px"></div>
