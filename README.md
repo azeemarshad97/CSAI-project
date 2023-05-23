@@ -1,3 +1,11 @@
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+## My first title
+Some text.
+## My second title
+
 # CSAI-project
 
 # Project Name
@@ -23,3 +31,8 @@ The AI crowd component would be the usage of a machine-learning model that would
 This is a supervised learning algorithm on a binary classification problem, edible or non-edible. Finally, the machine learning pipeline is illustrated in Figure 3 below, which also shows how this model could be used once deployed.
 
 ![Figure 3: Machine learning pipeline](./resources/figures/machine_learning_pipeline.png)
+
+
+
+
+## My second title
